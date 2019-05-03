@@ -1,3 +1,5 @@
-# IoThon operator documentation
+# Be your own operator!
 
-In this repository we provide documentation on how to get started with writing your own SIM cards, accessing the ePC cores and adding the SIM cards to the database. Please see the wiki for the documentation.
+In the repository wiki we provide some basic documentation on how to get started with the highly experimental possibility of creating your very own mobile network, including how to write SIM cards and add their information to the core database.
+
+https://github.com/iothon/operator/wiki
